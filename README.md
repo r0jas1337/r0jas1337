@@ -1,4 +1,4 @@
-<h1 align="center">Hey!</h1>
+<h1 align="center">Hey</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=r0jas1337)
 
