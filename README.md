@@ -10,7 +10,7 @@
 
 
 
-- 👷‍♂️ Arbeit: **RaX AntiCheat, FiveM Things**
+- 👷‍♂️ Arbeit: **GTA/RAGE:MP Things**
 
 - 📫 Kontakt **Discord: Rojas#1337**
 
